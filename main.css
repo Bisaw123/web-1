@@ -1,0 +1,18 @@
+div{
+  /*border: 1px solid red;*/
+  border-radius: 50px;
+  border: 20px groove tomato;
+  background-image: url("gate.jpg");
+  /*background-size: cover;
+  box-sizing: border-box;
+  padding: 50px;*/
+  margin: auto;
+  /*display: block;*/
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-color: ryellow;
+}
+.nogrow{
+  box-sizing: border-box;
+}
